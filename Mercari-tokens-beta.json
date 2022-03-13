@@ -54,25 +54,25 @@
     },
 
     "Orange": {
-      "orange-48": {
+      "orange-400": {
         "value": "#F57900",
         "type": "color"
       },
-      "orange-58": {
+      "orange-500": {
         "value": "#F69433",
         "type": "color"
       }
     },
 
     "Red": {
-      "red-42": {
+      "red-400": {
         "value": "#D4001A",
         "type": "color"
       }
     },
 
     "Cyan": {
-      "cyan-51": {
+      "cyan-500": {
         "value": "#3EB1C8",
         "type": "color"
       }
