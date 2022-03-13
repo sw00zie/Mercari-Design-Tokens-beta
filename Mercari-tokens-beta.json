@@ -1,0 +1,147 @@
+{
+  "Light": {
+
+    /* COLOR LIBRARY TOKENS - FOR USE BY DESIGN SYSTEM TEAM ONLY */
+
+    "Gray": {
+      "gray-0-black": {
+        "value": "#000",
+        "type": "color"
+      },
+      "gray-13": {
+        "value": "#222",
+        "type": "color"
+      },
+      "gray-42": {
+        "value": "#6B6B6B",
+        "type": "color"
+      },
+      "gray-81": {
+        "value": "#CDCED2",
+        "type": "color"
+      },
+      "gray-94": {
+        "value": "#ECEDF1",
+        "type": "color"
+      },
+      "gray-96": {
+        "value": "#F5F5F6",
+        "type": "color"
+      },
+      "gray-100-white": {
+        "value": "#fff",
+        "type": "color"
+      }
+    },
+
+    "Indigo": {
+      "indigo-26": {
+        "value": "#252B60",
+        "type": "color"
+      },
+      "indigo-63": {
+        "value": "#5356EE",
+        "type": "color"
+      },
+      "indigo-76": {
+        "value": "#879BFF",
+        "type": "color"
+      },
+      "indigo-97": {
+        "value": "#F2F3FE",
+        "type": "color"
+      }
+    },
+
+    "Orange": {
+      "orange-48": {
+        "value": "#F57900",
+        "type": "color"
+      },
+      "orange-58": {
+        "value": "#F69433",
+        "type": "color"
+      }
+    },
+
+    "Red": {
+      "red-42": {
+        "value": "#D4001A",
+        "type": "color"
+      }
+    },
+
+    "Cyan": {
+      "cyan-51": {
+        "value": "#3EB1C8",
+        "type": "color"
+      }
+    },
+
+    
+    /* ALIAS DESIGN TOKENS - FOR USE BY ALL CREATORS */
+
+
+    /* DESIGN TOKENS - NEUTRAL SENTIMENT */
+
+    "Neutral": {
+      "text": {
+        "value": "{Gray.gray-13}",
+        "type": "color"
+      },
+      "text-weak": {
+        "value": "{Gray.gray-42}",
+        "type": "color"
+      },
+      "text-strong": {
+        "value": "{Gray.gray-100-white}",
+        "type": "color"
+      },
+      "text-action": {
+        "value": "{Indigo.indigo-63}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{Gray.gray-100-white}",
+        "type": "color"
+      },
+      "background-weak": {
+        "value": "{Gray.gray-96}",
+        "type": "color"
+      },
+      "background-mild": {
+        "value": "{Gray.gray-81}",
+        "type": "color"
+      },
+      "background-strong": {
+        "value": "{Indigo.indigo-63}",
+        "type": "color"
+      },
+      "background-strong-alt": {
+        "value": "{Orange.orange-48}",
+        "type": "color"
+      },
+      "border": {
+        "value": "{Gray.gray-81}",
+        "type": "color"
+      },
+      "border-weak": {
+        "value": "{Gray.gray-94}",
+        "type": "color"
+      }
+    },
+
+    /* DESIGN TOKENS - SOLD SENTIMENT */
+
+    "Sold": {
+      "text-strong": {
+        "value": "{Gray.gray-100-white}",
+        "type": "color"
+      },
+      "background-strong": {
+        "value": "{Gray.gray-0-black}",
+        "type": "color"
+      }
+    }
+  }
+}
