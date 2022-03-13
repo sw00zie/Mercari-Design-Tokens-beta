@@ -35,19 +35,19 @@
     },
 
     "Indigo": {
-      "indigo-26": {
+      "indigo-200": {
         "value": "#252B60",
         "type": "color"
       },
-      "indigo-63": {
+      "indigo-600": {
         "value": "#5356EE",
         "type": "color"
       },
-      "indigo-76": {
+      "indigo-700": {
         "value": "#879BFF",
         "type": "color"
       },
-      "indigo-97": {
+      "indigo-900": {
         "value": "#F2F3FE",
         "type": "color"
       }
