@@ -3,28 +3,28 @@
 
     /* COLOR LIBRARY TOKENS - FOR USE BY DESIGN SYSTEM TEAM ONLY */
 
-    "Gray": {
+  "Gray": {
       "gray-0-black": {
         "value": "#000",
         "type": "color"
       },
-      "gray-13": {
+      "gray-100": {
         "value": "#222",
         "type": "color"
       },
-      "gray-42": {
+      "gray-400": {
         "value": "#6B6B6B",
         "type": "color"
       },
-      "gray-81": {
+      "gray-800": {
         "value": "#CDCED2",
         "type": "color"
       },
-      "gray-94": {
+      "gray-900": {
         "value": "#ECEDF1",
         "type": "color"
       },
-      "gray-96": {
+      "gray-950": {
         "value": "#F5F5F6",
         "type": "color"
       },
